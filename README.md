@@ -8,7 +8,7 @@ It is basic implementation of Perceptron using python script
 ```
 touch filename
 ```
-### to create an environment
+### To create an environment
 ```
 conda create --prefix ./env python==3.7 -y
 ```
