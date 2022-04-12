@@ -39,6 +39,4 @@ mkdir dir_name
 '''
 ### To open jupyter notebook in this directory
 '''
-'''
 jupyter-notebook
-'''
