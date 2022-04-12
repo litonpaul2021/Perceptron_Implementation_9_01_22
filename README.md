@@ -24,3 +24,21 @@ conda create --prefix ./env python==3.7 -y
 '''
 conda activate ./env
 '''
+''' 
+### To install all the packages in requirements.txt file
+'''
+'''
+pip install -r requirements.txt
+'''
+'''
+### To make a directory
+'''
+'''
+mkdir dir_name
+'''
+'''
+### To open jupyter notebook in this directory
+'''
+'''
+jupyter-notebook
+'''
